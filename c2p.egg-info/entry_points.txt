@@ -1,0 +1,2 @@
+[console_scripts]
+c2p = c2p.__main__:main

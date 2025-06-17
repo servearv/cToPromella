@@ -1,0 +1,1 @@
+python -m c2p samples/file_name.c -o file_name.pml

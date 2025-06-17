@@ -1,0 +1,4 @@
+python -m c2p samples/file_name.c -o file_name.pml
+
+Example:
+python -m c2p samples/malloc.c -o malloc.pml

@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: c2p
+Version: 0.1.0
+Summary: Minimal C → Promela translator (teaching example)
+Author: Nachiket Avachat
+License: MIT
+Requires-Python: >=3.9
+Requires-Dist: pycparser
+Dynamic: requires-dist

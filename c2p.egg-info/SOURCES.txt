@@ -1,0 +1,13 @@
+setup.cfg
+setup.py
+c2p/__init__.py
+c2p/__main__.py
+c2p/ast_parser.py
+c2p/promela_writer.py
+c2p/tranlator.py
+c2p.egg-info/PKG-INFO
+c2p.egg-info/SOURCES.txt
+c2p.egg-info/dependency_links.txt
+c2p.egg-info/entry_points.txt
+c2p.egg-info/requires.txt
+c2p.egg-info/top_level.txt
